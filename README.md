@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GiHub da DIO
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Tux, the Linux mascot]([/assets/images/tux.png](https://mdg.imgix.net/assets/images/tux.png?auto=format&fit=clip&q=40&w=100)
 ## Resumo do Bootcamp Linux Experience
 Este programa é para profissionais de tecnologia que querem aperfeiçoar seus conhecimentos no sistema operacional Linux em uma trilha imersiva, rápida e eficiente. O Linux Experience possui apenas 41 horas, que você pode finalizar em poucos dias, de atividades 100% voltadas para os desafios do mercado de trabalho.   Nesse programa você vai aprender a principal vocação do sistema operacional Linux, seus comandos fundamentais e como gerenciar serviços de um servidor.  Após gerar o seu certificado de conclusão, o seu perfil ficará disponível para as empresas parceiras da DIO que estão contratando.
 
