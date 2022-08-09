@@ -5,14 +5,14 @@ Este programa é para profissionais de tecnologia que querem aperfeiçoar seus c
 
 ### Grade Bootcamp Linux Experience
 #### [01 - Introdução ao Desenvolvimento Moderno de Software](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/01%20-%20Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20Moderno%20de%20Software/README.md)
-#### [02 - Introdução à Programação e Pensamento Computacional](
-#### [03 - Introdução ao Git e ao GitHub](
-#### [04 - Introdução ao Sistema Operacional Linux](
-#### [05 - Instalando o Linux](
-#### [06 - Acesso Remoto a Máquina Linux](
-#### [07 - Manipulando Arquivos no Linux](
-#### [08 - Gerenciando Usuários no Linux](
-#### [09 - Gerenciamento de Pacotes Linux](
+#### [02 - Introdução à Programação e Pensamento Computacional](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/02%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20e%20Pensamento%20Computacional/README.md)
+#### [03 - Introdução ao Git e ao GitHub](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/03%20-%20Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20GitHub/README.md)
+#### [04 - Introdução ao Sistema Operacional Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/04%20-%20Introdu%C3%A7%C3%A3o%20ao%20SIstema%20Operacional%20Linux/README.md)
+#### [05 - Instalando o Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/05%20-%20Instalando%20o%20Linux/README.md)
+#### [06 - Acesso Remoto a Máquina Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/06%20-%20Acesso%20Remoto%20a%20M%C3%A1quina%20Linux/README.md)
+#### [07 - Manipulando Arquivos no Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/07%20-%20Manipulando%20Arquivos%20no%20Linux/README.md)
+#### [08 - Gerenciando Usuários no Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/08%20-%20Gerenciando%20Usu%C3%A1rios%20no%20Linux/README.md)
+#### [09 - Gerenciamento de Pacotes Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/09%20-%20Gerenciamento%20de%20Pacotes%20Linux/README.md)
 #### [10 - Gerenciamento de Discos Linux](
 #### [11 - Copiando Arquivos e Manipulando Processos](
 #### [12 - Servidores de Arquivos com Linux](
