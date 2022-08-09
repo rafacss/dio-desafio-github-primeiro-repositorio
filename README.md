@@ -13,11 +13,11 @@ Este programa é para profissionais de tecnologia que querem aperfeiçoar seus c
 #### [07 - Manipulando Arquivos no Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/07%20-%20Manipulando%20Arquivos%20no%20Linux/README.md)
 #### [08 - Gerenciando Usuários no Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/08%20-%20Gerenciando%20Usu%C3%A1rios%20no%20Linux/README.md)
 #### [09 - Gerenciamento de Pacotes Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/09%20-%20Gerenciamento%20de%20Pacotes%20Linux/README.md)
-#### [10 - Gerenciamento de Discos Linux](
-#### [11 - Copiando Arquivos e Manipulando Processos](
-#### [12 - Servidores de Arquivos com Linux](
-#### [13 - Criando um Servidor Web com Linux](
-#### [14 - Servidor de Banco de Dados com Linux](
+#### [10 - Gerenciamento de Discos Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/10%20-%20Gerenciamento%20de%20Discos%20Linux/README.md)
+#### [11 - Copiando Arquivos e Manipulando Processos](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/11%20-%20Copiando%20Arquivos%20e%20Manipulando%20Processos/README.md)
+#### [12 - Servidores de Arquivos com Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/12%20-%20Servidores%20de%20Arquivos%20com%20Linux/README.md)
+#### [13 - Criando um Servidor Web com Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/13%20-%20Criando%20um%20Servidor%20Web%20com%20Linux/README.md)
+#### [14 - Servidor de Banco de Dados com Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/14%20-%20Servidor%20de%20Banco%20de%20Dados%20com%20Linux/README.md)
 
 ## Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
