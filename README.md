@@ -1,7 +1,10 @@
 # Desafio de Projeto sobre Git/GiHub da DIO
-![Linux Experience](https://hermes.digitalinnovation.one/tracks/606823c2-8a73-4655-947d-d41b991baf12.png?auto=format&fit=clip&q=40&w=100)
+<img src="https://hermes.digitalinnovation.one/tracks/606823c2-8a73-4655-947d-d41b991baf12.png" alt="Linux Experience" style="height: 300px; width:300px;"/>
+
 ## Resumo do Bootcamp Linux Experience
 Este programa é para profissionais de tecnologia que querem aperfeiçoar seus conhecimentos no sistema operacional Linux em uma trilha imersiva, rápida e eficiente. O Linux Experience possui apenas 41 horas, que você pode finalizar em poucos dias, de atividades 100% voltadas para os desafios do mercado de trabalho.   Nesse programa você vai aprender a principal vocação do sistema operacional Linux, seus comandos fundamentais e como gerenciar serviços de um servidor.  Após gerar o seu certificado de conclusão, o seu perfil ficará disponível para as empresas parceiras da DIO que estão contratando.
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/JcCD6Nt6d_s/hqdefault.jpg)](https://www.youtube.com/embed/JcCD6Nt6d_s)
 
 ### Grade Bootcamp Linux Experience
 #### [01 - Introdução ao Desenvolvimento Moderno de Software](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/01%20-%20Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20Moderno%20de%20Software/README.md)
@@ -20,6 +23,6 @@ Este programa é para profissionais de tecnologia que querem aperfeiçoar seus c
 #### [14 - Servidor de Banco de Dados com Linux](https://github.com/rafacss/dio-desafio-github-primeiro-repositorio/blob/main/cursos/14%20-%20Servidor%20de%20Banco%20de%20Dados%20com%20Linux/README.md)
 
 ## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Site do Bootcamp](https://web.dio.me/track/linux-experience)
 
 Versão 1.0
